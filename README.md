@@ -1,7 +1,9 @@
-### Hi there 👋 I'm Ivan, C++ eveloper.
-
+### Hi there 👋 I'm Ivan, C++ developer.
+I am a graduate of the course Yandex.Practicum C++. Have more than 10 years of experience in the field of automation of technological processes and adjustment of security systems.
 
 <!--
+Here is my hh cv
+
 **bahekmel/bahekmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
